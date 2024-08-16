@@ -1,0 +1,10 @@
+C:\FileCPP\OrderPizza\bin\Debug\OrderPizza.exe.config
+C:\FileCPP\OrderPizza\bin\Debug\OrderPizza.exe
+C:\FileCPP\OrderPizza\bin\Debug\OrderPizza.pdb
+C:\FileCPP\OrderPizza\obj\Debug\OrderPizza.csproj.AssemblyReference.cache
+C:\FileCPP\OrderPizza\obj\Debug\OrderPizza.Form1.resources
+C:\FileCPP\OrderPizza\obj\Debug\OrderPizza.Properties.Resources.resources
+C:\FileCPP\OrderPizza\obj\Debug\OrderPizza.csproj.GenerateResource.cache
+C:\FileCPP\OrderPizza\obj\Debug\OrderPizza.csproj.CoreCompileInputs.cache
+C:\FileCPP\OrderPizza\obj\Debug\OrderPizza.exe
+C:\FileCPP\OrderPizza\obj\Debug\OrderPizza.pdb
